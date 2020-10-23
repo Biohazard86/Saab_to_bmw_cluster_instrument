@@ -3,6 +3,9 @@ Biohazard_86
 
 Saab Trionic 5 to Bmw E36 cluster RPM conversion by davidbarrios@usal.es
 
+TESTED in:
+BMW E36 316i M40B16 to TRIONIC 5 ECU
+
 Most of the Saab dashboards works with 2 or 4 pulses per rev. 
 
 BMW E36 cluster uses 3 pulses per rev
